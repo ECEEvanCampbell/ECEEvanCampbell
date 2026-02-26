@@ -16,7 +16,8 @@ Co-developer of **LibEMG** — an open-source Python package with **11,000+ down
 ## Open-source
 - **LibEMG (Python)** — co-developer and contributor  
   - Package: https://pypi.org/project/libemg/  
-  - Repo: *(add GitHub link here)*
+  - Repo: https://github.com/LibEMG
+  - Documentation: https://libemg.github.io/libemg/
 
 ## Publications & profiles
 - Google Scholar: (https://scholar.google.ca/citations?user=3viQ0uwAAAAJ&hl=en&oi=ao)
